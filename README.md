@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kalpesh Bondre 👋
 
-<!--
-**kalpeshbondre/kalpeshbondre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Graduate | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering graduate interested in software development, problem-solving, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- **Languages:** C, C++, Java, Python
+- **Backend:** Spring Boot
+- **Databases:** SQL, MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+### 📚 Currently Learning
+- Data Structures and Algorithms
+- Java Backend Development
+- Spring Boot
+- Logic Building
+
+### 🎯 Career Goal
+To become a skilled Software Developer by continuously learning, solving problems, and building real-world applications.
+
+### 📫 Connect With Me
+- LinkedIn: Add your LinkedIn profile URL here
+- GitHub: https://github.com/kalpeshbondre
