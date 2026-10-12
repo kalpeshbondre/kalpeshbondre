@@ -40,3 +40,10 @@ To become a skilled Software Developer by continuously learning, solving problem
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/kalpesh-bondre-215940253/
 - GitHub: https://github.com/kalpeshbondre
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalpeshbondre&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshbondre&layout=compact&theme=tokyonight)
