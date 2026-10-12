@@ -1,7 +1,5 @@
 <img width="1376" height="768" alt="Gemini_Generated_Image_ur5ygzur5ygzur5y" src="https://github.com/user-attachments/assets/8a53b93f-cbe5-4237-bc43-23ed3dec4623" />
-<img width="1376" height="768" alt="Gemini_Generated_Image_ur5ygzur5ygzur5y" src="https://github.com/user-attachments/assets/a0ff474c-09c0-4fe4-941e-cb3adb33f5f6" />
-<img width="1376" height="768" alt="Gemini_Generated_Image_ur5ygzur5ygzur5y" src="https://github.com/user-attachments/assets/f7b73c62-95bb-4f31-97d8-ba42aceedd9a" />
-<img width="1376" height="768" alt="Gemini_Generated_Image_ur5ygzur5ygzur5y" src="https://github.com/user-attachments/assets/005b8774-9705-4df4-b6f3-1513222f5449" />
+
 # Hi, I'm Kalpesh Bondre 👋
 
 ### Computer Science Engineering Graduate | Aspiring Software Developer
