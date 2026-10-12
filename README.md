@@ -1,49 +1,105 @@
-<img width="1376" height="768" alt="Gemini_Generated_Image_ur5ygzur5ygzur5y" src="https://github.com/user-attachments/assets/8a53b93f-cbe5-4237-bc43-23ed3dec4623" />
 
- 
-# Hi, I'm Kalpesh Bondre 👋
+<!-- PROFILE BANNER -->
+<img src="https://github.com/user-attachments/assets/8a53b93f-cbe5-4237-bc43-23ed3dec4623" width="100%" alt="Kalpesh Bondre GitHub Banner">
 
-### Computer Science Engineering Graduate | Aspiring Software Developer
+<h1 align="center">Hi, I'm Kalpesh Bondre 👋</h1>
 
-I'm a Computer Science Engineering graduate interested in software development, problem-solving, and building practical applications.
+<h3 align="center">Computer Science Engineering Graduate | Aspiring Software Developer</h3>
 
-### 💻 Technical Skills
-- **Languages:** C, C++, Java, Python
-- **Backend:** Spring Boot
-- **Databases:** SQL, MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code
+<p align="center">
+  Passionate about software development, problem-solving, and building practical applications.
+</p>
 
+---
 
-## 🛠️ Languages and Tools
+## 👨‍💻 About Me
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🎓 Computer Science Engineering Graduate.
+- 💻 Interested in Software Development and Backend Development.
+- 🌱 Currently learning Java, Spring Boot, and Data Structures & Algorithms.
+- 🧠 Improving my programming fundamentals and logic-building skills.
+- 🚀 Focused on building practical applications and developing real-world skills.
 
+---
 
-### 📚 Currently Learning
+## 💻 Technical Skills
+
+**Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
+
+---
+
+## 📚 Currently Learning
+
 - Data Structures and Algorithms
 - Java Backend Development
 - Spring Boot
 - Logic Building
+- Database Management
 
-### 🎯 Career Goal
-To become a skilled Software Developer by continuously learning, solving problems, and building real-world applications.
+---
 
-### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/kalpesh-bondre-215940253/
-- GitHub: https://github.com/kalpeshbondre
+## 📂 My Repositories
 
+### 💻 Programming Practice
+
+Daily programming practice and learning exercises in C, C++, and Java.
+
+[![Programming Practice](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/kalpeshbondre/Programming-Practice)
+
+---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalpeshbondre&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalpeshbondre&show_icons=true&theme=tokyonight" alt="GitHub Statistics">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshbondre&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshbondre&layout=compact&theme=tokyonight" alt="Most Used Languages">
+</p>
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Software Developer by strengthening my programming fundamentals, mastering backend technologies, and building practical software applications.
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/kalpesh-bondre-215940253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/kalpeshbondre">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Learn • Build • Practice • Improve</b>
+</p>
