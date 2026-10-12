@@ -20,5 +20,5 @@ I'm a Computer Science Engineering graduate interested in software development, 
 To become a skilled Software Developer by continuously learning, solving problems, and building real-world applications.
 
 ### 📫 Connect With Me
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: https://www.linkedin.com/in/kalpesh-bondre-215940253/
 - GitHub: https://github.com/kalpeshbondre
