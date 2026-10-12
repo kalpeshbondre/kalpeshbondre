@@ -1,4 +1,3 @@
-![Kalpesh Bondre - GitHub Banner]
 <img width="1376" height="768" alt="Gemini_Generated_Image_ur5ygzur5ygzur5y" src="https://github.com/user-attachments/assets/8a53b93f-cbe5-4237-bc43-23ed3dec4623" />
 
 
