@@ -59,16 +59,6 @@
 
 ---
 
-## 📂 My Repositories
-
-### 💻 Programming Practice
-
-Daily programming practice and learning exercises in C, C++, and Java.
-
-[![Programming Practice](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/kalpeshbondre/Programming-Practice)
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
