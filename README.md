@@ -89,7 +89,7 @@ To become a skilled Software Developer by strengthening my programming fundament
 </p>
 
 ---
-p align="center">
+<p align="center">
   <b>Thanks for visiting my GitHub profile! 😊</b>
 </p>
 
