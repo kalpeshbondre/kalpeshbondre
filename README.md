@@ -1,5 +1,4 @@
-
-<!-- PROFILE BANNER -->
+ <!-- PROFILE BANNER -->
 <img src="https://github.com/user-attachments/assets/8a53b93f-cbe5-4237-bc43-23ed3dec4623" width="100%" alt="Kalpesh Bondre GitHub Banner">
 
 <h1 align="center">Hi, I'm Kalpesh Bondre 👋</h1>
@@ -25,6 +24,7 @@
 ## 💻 Technical Skills
 
 **Programming Languages**
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -33,6 +33,7 @@
 </p>
 
 **Backend & Databases**
+
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -41,6 +42,7 @@
 </p>
 
 **Tools**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -62,11 +64,19 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalpeshbondre&show_icons=true&theme=tokyonight" alt="GitHub Statistics">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalpeshbondre&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshbondre&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalpeshbondre&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kalpeshbondre&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -89,6 +99,7 @@ To become a skilled Software Developer by strengthening my programming fundament
 </p>
 
 ---
+
 <p align="center">
   <b>Thanks for visiting my GitHub profile! 😊</b>
 </p>
@@ -100,4 +111,3 @@ To become a skilled Software Developer by strengthening my programming fundament
 <p align="center">
   ⭐ Always learning, always improving!
 </p>
-
