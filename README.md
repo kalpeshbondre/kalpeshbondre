@@ -80,15 +80,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/kalpeshbondre">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpeshbondre&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Kalpesh's GitHub Contribution Activity">
-  </a>
-</p>
-
----
 
 ## 🎯 Career Goal
 
